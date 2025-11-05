@@ -10,3 +10,6 @@ z + y + x
 z -y -x
 
 #Crucial update about something!
+
+#add new content
+new var = x*2
