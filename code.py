@@ -14,3 +14,6 @@ x - y
 
 #perhaps a new variable
 z = y - x
+
+#I do want a new variable for real this time
+z =x^2
