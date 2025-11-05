@@ -11,3 +11,6 @@ x + y
 
 #talked to  prof, try new analysis
 x - y
+
+#perhaps a new variable
+z = y - x
