@@ -17,3 +17,6 @@ z = y - x
 
 #I do want a new variable for real this time
 z =x^2
+
+changes 
+x + x = 2
